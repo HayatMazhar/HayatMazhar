@@ -1,8 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mazhar Hayat
 ====================================================================================================================================
 
-Full Stack Engineer
+Full Stack Engineer 
 -------------------
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C159%20hrs%2044%20mins-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-968-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
+
 
 Who Am I? I am 31 years old, and I hated when I decided to learn to code. 
 I had only planned to stay in that job for six months while I looked for something better. And unfortunately, that six months turned into ten years. Time flies, and now I am loving it. :) 
@@ -17,11 +22,6 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 <a href="https://calendly.com/mazhar1783/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C159%20hrs%2044%20mins-blue)
-![Profile Views](http://img.shields.io/badge/Profile%20Views-968-blue)
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
 ### Skills
 
