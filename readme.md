@@ -4,7 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Engineer
 -------------------
 
-Who Am I? I am 31 years old, and I hated when I decided to learn to code. I had only planned to stay in that job for six months while I looked for something better. And unfortunately, that six months turned into ten years. Time flies, and now I am loving it. :) I'm a highly motivated self-starter and problem-solver Full Stack Software Engineer with over nine years of experience in software design, development & testing. I have a focused & result-driven approach to solving complex problems and a desire to create innovative solutions. My interests include Software Design & Architecture.
+Who Am I? I am 31 years old, and I hated when I decided to learn to code. 
+I had only planned to stay in that job for six months while I looked for something better. And unfortunately, that six months turned into ten years. Time flies, and now I am loving it. :) 
+
+I'm a self-starter and problem-solver Full Stack Software Engineer with over 10 years of experience in software design and development. I have a focused & result-driven approach to solving complex problems and a desire to create innovative solutions. My interests include Software Design & Architecture.
 
 * 🌍  I'm based in United Arab Emirates
 * ✉️  You can contact me at [mazhar1783@outlook.com](mailto:mazhar1783@outlook.com)
