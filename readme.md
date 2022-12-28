@@ -11,20 +11,19 @@ I'm a self-starter and problem-solver Full Stack Software Engineer with over 10 
 
 * 🌍  I'm based in United Arab Emirates
 * ✉️  You can contact me at [mazhar1783@outlook.com](mailto:mazhar1783@outlook.com)
+### 📫 Like to meet me?
+
+Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
+
+<a href="https://calendly.com/mazhar1783/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C159%20hrs%2044%20mins-blue)
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-968-blue)
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
-<a href="https://www.twitter.com/hayat_mazhar" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/hayat_mazhar?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
-<p align="left"> <a href="https://www.github.com/HayatMazhar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mazharhayyat/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/hayat_mazhar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-
 ### Skills
-
 
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -87,6 +86,13 @@ Sunday       175 commits    █████░░░░░░░░░░░░�
 
 
 <a href="http://www.github.com/HayatMazhar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HayatMazhar&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+### Follow me
+<p align="left"> <a href="https://www.github.com/HayatMazhar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mazharhayyat/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/hayat_mazhar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+<a href="https://www.twitter.com/hayat_mazhar" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/hayat_mazhar?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
 
 ### Support Me
 
